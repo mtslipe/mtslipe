@@ -9,8 +9,8 @@
 - 🐍 I’m currently learning **Python** and **JavaScript**
   
 <div align="center">  
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=mtslipe&show_icons=true&count_private=true&hide_border=true&title_color=4defff&icon_color=4defff&text_color=c9d1d8&bg_color=0d1117" /> 
-  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtslipe&layout=compact&hide_border=true&title_color=4defff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=mtslipe&show_icons=true&count_private=true&hide_border=true&title_color=4defff&icon_color=4defff&text_color=c9d1d8&bg_color=0d1116" /> 
+  <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtslipe&layout=compact&hide_border=true&title_color=4defff&text_color=c9d1d9&bg_color=0d1116" />
 </div>
 
 ---
